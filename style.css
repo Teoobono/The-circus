@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+   background-color: red;
+   padding: 10px; 
+}
+
+h1{
+   font-size: 40px;
+   color: greenyellow;
+   text-align: center;
+}
+
+footer{
+   background-color: yellow;
+   padding: 10px;
+}
+
+footer p{
+   background-color: aqua;
+}   
+
+nav{
+   margin: 20px;
+   padding: 10px;
+   border: 2px solid blue;
+}
+
+nav a{
+   margin: 20px;
+   font-size: 20px;
+   text-decoration: none;
+   color: rgb(0, 30, 255);
+}
+
+.julie{
+   margin: 20px;
+   background-color: orange;
+   padding: 10px;
+}
+
+h2{
+   font-size: 50px;
+   color: purple;
+}
+
+main a{
+   background-color: yellow;
+}
